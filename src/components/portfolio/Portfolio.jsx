@@ -36,10 +36,10 @@ const Portfolio = () => {
           <div className="portfolio__item-img">
             <img src={IMG3} alt="Eclipse - Figma dashboard UI kit for data design web apps" />
           </div>
-          <h3>Eclipse - Figma dashboard UI kit for data design web apps</h3>
+          <h3>Responsive Gym Website</h3>
           <div className="portfolio__item-cta">
-            <a href="https://github.com/Alifouanne/modern-responsive-website" className="btn" target='_blank' rel='noreferrer'>Github</a>
-            <a href="https://dribbble.com/shots/17290917-Eclipse-Figma-dashboard-UI-kit-for-data-design-web-apps" className="btn btn-primary" target='_blank' rel='noreferrer'>Live Demo</a>
+            <a href="https://github.com/Alifouanne/gym-website" className="btn" target='_blank' rel='noreferrer'>Github</a>
+            <a href="https://gym-website-hqa.pages.dev/" className="btn btn-primary" target='_blank' rel='noreferrer'>Live Demo</a>
           </div>
         </article>
         <article className="portfolio__item">
