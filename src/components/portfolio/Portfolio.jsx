@@ -49,7 +49,7 @@ const Portfolio = () => {
           <h3>Crypto Website</h3>
           <div className="portfolio__item-cta">
             <a href="https://github.com/Alifouanne/Crypto-Website" className="btn" target='_blank' rel='noreferrer'>Github</a>
-            <a href="https://dribbble.com/shots/16955822-Maintaining-tasks-and-tracking-progress" className="btn btn-primary" target='_blank' rel='noreferrer'>Live Demo</a>
+            <a href="https://crypto-website-eosin.vercel.app" className="btn btn-primary" target='_blank' rel='noreferrer'>Live Demo</a>
           </div>
         </article>
         <article className="portfolio__item">
