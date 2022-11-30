@@ -46,7 +46,7 @@ const Portfolio = () => {
           <div className="portfolio__item-img">
             <img src={IMG4} alt="Maintaining tasks and tracking progress" />
           </div>
-          <h3>Crypto Website</h3>
+          <h3>Crypto Website (NOTE:need VPN in Syria)</h3>
           <div className="portfolio__item-cta">
             <a href="https://github.com/Alifouanne/Crypto-Website" className="btn" target='_blank' rel='noreferrer'>Github</a>
             <a href="https://crypto-website-eosin.vercel.app" className="btn btn-primary" target='_blank' rel='noreferrer'>Live Demo</a>
