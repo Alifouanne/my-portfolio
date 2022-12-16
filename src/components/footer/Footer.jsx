@@ -1,9 +1,8 @@
 import React from "react";
-import "./footer.css";
-import { FaFacebookF } from "react-icons/fa";
-import { FaInstagram } from "react-icons/fa";
 import { BsLinkedin } from "react-icons/bs";
+import { FaFacebookF, FaInstagram } from "react-icons/fa";
 import { GiAngryEyes } from "react-icons/gi";
+import "./footer.css";
 
 const Footer = () => {
   return (
@@ -38,7 +37,6 @@ const Footer = () => {
         <a
           href="https://www.linkedin.com/in/ali-fouanne-56b602222/"
           target="_blank"
-
           rel="noreferrer"
         >
           <BsLinkedin />
@@ -46,7 +44,6 @@ const Footer = () => {
         <a
           href="https://www.facebook.com/ali.fouanne.1/"
           target="_blank"
-
           rel="noreferrer"
         >
           <FaFacebookF />
@@ -54,7 +51,6 @@ const Footer = () => {
         <a
           href="https://www.instagram.com/3le_fouanne/"
           target="_blank"
-
           rel="noreferrer"
         >
           <FaInstagram />

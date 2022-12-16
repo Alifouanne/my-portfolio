@@ -1,10 +1,10 @@
 import React from 'react'
-import './Qualification.css'
-import { FaUserGraduate } from 'react-icons/fa'
-import { GiGraduateCap } from 'react-icons/gi'
-import { BsCalendarDate } from 'react-icons/bs'
-import { TbCertificate } from 'react-icons/tb'
-import { AiFillSafetyCertificate } from 'react-icons/ai'
+import { AiFillSafetyCertificate } from "react-icons/ai";
+import { BsCalendarDate } from "react-icons/bs";
+import { FaUserGraduate } from "react-icons/fa";
+import { GiGraduateCap } from "react-icons/gi";
+import { TbCertificate } from "react-icons/tb";
+import "./Qualification.css";
 
 
 const Qualification = () => {
