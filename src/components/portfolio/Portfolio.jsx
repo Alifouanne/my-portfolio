@@ -141,10 +141,10 @@ const Portfolio = () => {
               alt="Orion UI kit - Charts templates & infographics in Figma"
             />
           </div>
-          <h3>Orion UI kit - Charts templates & infographics in Figma</h3>
+          <h3>Amazone Clone 2.0 (NOTE:need VPN in Syria)</h3>
           <div className="portfolio__item-cta">
             <a
-              href="https://github.com/Alifouanne/modern-responsive-website"
+              href="https://github.com/Alifouanne/amazon-new"
               className="btn"
               target="_blank"
               rel="noreferrer"
@@ -152,7 +152,7 @@ const Portfolio = () => {
               Github
             </a>
             <a
-              href="https://dribbble.com/shots/17317573-Orion-UI-kit-Charts-templates-infographics-in-Figma"
+              href="https://my-amazon-ow8bzod2b-alifouanne.vercel.app"
               className="btn btn-primary"
               target="_blank"
               rel="noreferrer"
