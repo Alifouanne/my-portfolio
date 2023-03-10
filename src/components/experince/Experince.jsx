@@ -22,7 +22,7 @@ const Experince = () => {
               <VscCheckAll className="experience__details-icon" />
               <div>
                 <h4>CSS</h4>
-                <small className="text-light">Intermediate</small>
+                <small className="text-light">Experienced</small>
               </div>
             </article>
             <article className="experience__details">
@@ -50,7 +50,35 @@ const Experince = () => {
               <VscCheckAll className="experience__details-icon" />
               <div>
                 <h4>SASS</h4>
-                <small className="text-light">Basic</small>
+                <small className="text-light">Intermediate</small>
+              </div>
+            </article>
+            <article className="experience__details">
+              <VscCheckAll className="experience__details-icon" />
+              <div>
+                <h4>Next.JS</h4>
+                <small className="text-light">Intermediate</small>
+              </div>
+            </article>
+            <article className="experience__details">
+              <VscCheckAll className="experience__details-icon" />
+              <div>
+                <h4>TypeScript</h4>
+                <small className="text-light">Intermediate</small>
+              </div>
+            </article>
+            <article className="experience__details">
+              <VscCheckAll className="experience__details-icon" />
+              <div>
+                <h4>Tailwind Css</h4>
+                <small className="text-light">Experienced</small>
+              </div>
+            </article>
+            <article className="experience__details">
+              <VscCheckAll className="experience__details-icon" />
+              <div>
+                <h4>MUI</h4>
+                <small className="text-light">Intermediate</small>
               </div>
             </article>
           </div>
@@ -59,27 +87,13 @@ const Experince = () => {
         <div className="experience__backend">
           <h3>Backend Development</h3>
           <div className="experience__content">
-            {/* <article className='experience__details'>
-              <VscCheckAll className='experience__details-icon' />
+            <article className="experience__details">
+              <VscCheckAll className="experience__details-icon" />
               <div>
                 <h4>Node JS</h4>
-                <small className='text-light'>Experienced</small>
+                <small className="text-light">Basic</small>
               </div>
-            </article> */}
-            {/* <article className='experience__details'>
-              <VscCheckAll className='experience__details-icon' />
-              <div>
-                <h4>Mongo DB</h4>
-                <small className='text-light'>Intermediate</small>
-              </div>
-            </article> */}
-            {/* <article className='experience__details'>
-              <VscCheckAll className='experience__details-icon' />
-              <div>
-                <h4>PHP</h4>
-                <small className='text-light'>Intermediate</small>
-              </div>
-            </article> */}
+            </article>
             <article className="experience__details">
               <VscCheckAll className="experience__details-icon" />
               <div>

@@ -30,8 +30,10 @@ const About = () => {
             </article>
           </div>
           <p>
-            Software Engineer (Python,java, and React) with 2+ years experience
-            in software development with a focus on the frontend side.{" "}
+            Software Engineer, interested in Front-end web development, with 2+
+            years of experience in this field. Skilled in Data Structure, OOP,
+            js, Front-end development, React js, Next. js, TypeScript, many
+            other librares in react.{" "}
           </p>
           <a href="#contact" className="btn btn-primary ">
             Let's Talk
