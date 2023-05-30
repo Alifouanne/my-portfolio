@@ -1,4 +1,3 @@
-import "./App.css";
 import About from "../src/components/about/About";
 import Contact from "../src/components/contact/Contact";
 import Experince from "../src/components/experince/Experince";
@@ -7,7 +6,8 @@ import Header from "../src/components/header/Header";
 import Nav from "../src/components/nav/Nav";
 import Portfolio from "../src/components/portfolio/Portfolio";
 import Services from "../src/components/services/Services";
-import Testimonials from "../src/components/testimonials/Testimonials";
+import "./App.css";
+
 import Qualification from "./components/Qualification/Qualification";
 
 function App() {
