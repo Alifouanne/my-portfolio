@@ -16,10 +16,10 @@ const Portfolio = () => {
           <div className="portfolio__item-img">
             <img src={IMG1} alt="Modern Responsive Website" />
           </div>
-          <h3>Modern Responsive Website</h3>
+          <h3>Cloud : Weather App</h3>
           <div className="portfolio__item-cta">
             <a
-              href="https://github.com/Alifouanne/modern-responsive-website"
+              href="https://github.com/Alifouanne/weather-app"
               className="btn"
               target="_blank"
               rel="noreferrer"
@@ -27,7 +27,7 @@ const Portfolio = () => {
               Github
             </a>
             <a
-              href="https://alifouanne.github.io/modern-responsive-website/"
+              href="https://cloud-1huis0xl8-alifouanne.vercel.app/"
               className="btn btn-primary"
               target="_blank"
               rel="noreferrer"
